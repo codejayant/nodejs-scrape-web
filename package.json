@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-scrape-web",
+  "version": "1.0.0",
+  "description": "nodejs program to scrap web using puppeteer and headless chrome",
+  "main": "index.js",
+  "author": "jayant sarkar <codejayant@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.12.0"
+  }
+}
